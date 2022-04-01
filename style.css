@@ -1,0 +1,56 @@
+body {
+    background-color: #FBF9F7;
+    background-image: url("images/DSP-Kitchens-and-Installations.jpg");
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.nav-item {
+    font-size: 20px;
+    font-family: 'CabinetGrotesk-Bold';
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+nav .navbar-nav li a {
+    color: white !important;
+}
+
+.navbar-custom {
+    color: transparent;
+}
+
+.heading h2 {
+    font-size: 70px;
+    color: white;
+    margin-top: 80px;
+    line-height: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+}
+
+.heading p {
+    font-size: 20px;
+    color: white;
+    margin-top: 30px;
+    line-height: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 30px;
+}
+
+#hr {
+    border-top: 2px solid white;
+}
+
+button {
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 18px 50px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin-left: 120px;
+}
